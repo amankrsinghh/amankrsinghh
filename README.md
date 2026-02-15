@@ -1,48 +1,64 @@
 # 👋 Hi, I'm Aman Kumar Singh
 
-### 🚀 Android & Flutter App Developer | Kotlin Learner | Tech Explorer
+### 🟦 Flutter Developer | Cross-Platform App Builder | UI Lover
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+App+Builder;Kotlin+Learner;Always+Learning+New+Tech" />
-
----
-
-## 🧑‍💻 About Me
-
-* 📱 Android & Flutter App Developer
-* 🔥 Passionate about building useful & scalable apps
-* 🌱 Currently learning **Advanced Kotlin & Flutter Architecture**
-* 🤝 Open for freelance & collaboration projects
-* 🌍 Based in India
-* ⚡ Fun fact: **I’m the Best 😎 — tell everyone!**
-
-📩 **Contact:** [xaman282@gmail.com](mailto:xaman282@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cross+Platform+App+Builder;Firebase+Integrated+Apps;Clean+UI+%2B+Scalable+Code" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me (Flutter Focused)
 
-### 📱 Mobile Development
+* 📱 Full-time **Flutter App Developer**
+* 🧩 Build cross-platform Android & iOS apps using Flutter
+* 🎯 Focus on clean UI, performance & scalable architecture
+* 🔥 Strong with Firebase integrations
+* 🌱 Currently learning **Advanced Flutter + State Management + Clean Architecture**
+* 🤝 Open for Flutter freelance & collaboration projects
+* ⚡ Fun fact: **I turn coffee into Flutter apps 😄**
+
+📩 Contact: **[xaman282@gmail.com](mailto:xaman282@gmail.com)**
+
+---
+
+## 🛠️ Flutter Tech Stack
+
+### 📱 Core
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-### 🔧 Backend & Database
+### 🧠 State Management
+
+![GetX](https://img.shields.io/badge/GetX-State%20Management-purple?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-State%20Management-blue?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-Architecture-orange?style=for-the-badge)
+
+### 🔥 Backend & Services
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-Firebase-yellow?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats (Working Widgets)
+## 📦 Flutter Project Types I Build
+
+* ✅ Service Apps
+* ✅ Admin + User Panel Apps
+* ✅ Firebase Based Apps
+* ✅ API Integrated Apps
+* ✅ Internship / Client Projects
+* ✅ Custom UI Flutter Apps
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -60,33 +76,24 @@
 
 ---
 
-## 🚀 What I’m Building
-
-* 📱 Real-world Flutter apps
-* 🔐 Firebase integrated projects
-* 💼 Client & internship based applications
-* 🧩 Clean UI + scalable architecture apps
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/amankrsinghh"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
-<a href="https://instagram.com/mr_aks_man"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 <a href="https://www.linkedin.com/in/aman-kumar-singh-210b481a4"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+<a href="https://instagram.com/mr_aks_man"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 </p>
 
 ---
 
-## 💬 Developer Quote
+## 💬 Flutter Motto
 
-> “Code. Debug. Improve. Repeat.”
+> “Beautiful UI + Clean Logic + Smooth Performance = Great Flutter App”
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Star my repos if you like my Flutter work!
 
 </div>
