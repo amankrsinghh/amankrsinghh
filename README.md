@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Aman Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=App%20Developer%20%7C%20AI%20Web%20developer%20%7C%20AI%20Backend%20Architect&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=amankrsinghh">
+    <img src="https://komarev.com/ghpvc/?username=amankrsinghh&label=Profile%20views&color=00FFFF&style=flat-square" alt="amankrsinghh's profile views" />
+  </a>
+</p>
+
+---
+
+## 👋 Hi, I'm Aman Kumar Singh
 
 ### 🚀 Full-Stack Developer | Flutter Specialist | Clean Code Advocate
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=🔥+Full-Stack+Developer;📱+Flutter+%26+Dart+Specialist;🌐+React.js+%26+Web+Developer;🔧+Node.js+%26+Backend+Engineer;🤖+AI-Powered+Development;⚡+Clean+Architecture+Focus)](https://github.com/amankrsinghh)
-
-</div>
 
 ---
 
@@ -23,6 +27,25 @@
 - ⚡ **Fun Fact:** Coffee ☕ → Code 💻 → Production 🚀
 
 📧 **Contact:** [xaman282@gmail.com](mailto:xaman282@gmail.com)
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/amankrsinghh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amankrsinghh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="amankrsinghh's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=amankrsinghh&theme=dark&hide_border=true&cache_seconds=86400" alt="amankrsinghh's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=amankrsinghh&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aman Kumar Singh's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amankrsinghh&theme=dark&radius=10" alt="amankrsinghh's Activity Graph" />
+</p>
 
 ---
 
@@ -68,6 +91,16 @@
 
 ---
 
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://github.com/amankrsinghh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amankrsinghh&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
 ## 💼 Project Expertise
 
 ✅ **Mobile Applications** - Flutter apps with Firebase, APIs, offline support  
@@ -77,39 +110,6 @@
 ✅ **E-commerce Solutions** - Payment integration, inventory management  
 ✅ **AI-Integrated Apps** - Copilot & Gemini powered workflows  
 ✅ **Client & Internship Projects** - Delivered multiple production apps  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/amankrsinghh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amankrsinghh&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-<!-- Streak Stats -->
-<a href="https://github.com/amankrsinghh">
-  <img height="180" src="https://streak-stats.demolab.com?user=amankrsinghh&theme=nord&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/amankrsinghh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankrsinghh&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankrsinghh&theme=nord&hide_border=true&area=true)](https://github.com/amankrsinghh)
-
-</div>
 
 ---
 
@@ -162,14 +162,24 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <div align="center">
 
 ### ⭐ If you like my work, please star my repositories!
 
 [![Stars](https://img.shields.io/github/stars/amankrsinghh?style=for-the-badge&label=Total%20Stars)](https://github.com/amankrsinghh?tab=repositories)
 
+</div>
+
 ---
 
-<sub>Last updated: May 22, 2026 | Portfolio under active development 🚀</sub>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-</div>
+<sub>Last updated: May 22, 2026 | Portfolio under active development 🚀</sub>
