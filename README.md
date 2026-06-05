@@ -170,7 +170,11 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amankrsinghh)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://www.codecard.dev/tools/github-coding-streak-calculator">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsinghh&theme=dark&hide_border=true&card_width=400" alt="amankrsinghh's GitHub streak" />
+  </a>
+</p>
 
 ---
 
