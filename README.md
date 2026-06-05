@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist&descAlign=80&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&d[...]
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=amankrsinghh">
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/amankrsinghh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amankrsinghh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="amankrsinghh's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amankrsinghh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="amankrsinghh's GitHub Stat[...]
   </a>
   <img src="https://streak-stats.demolab.com/?user=amankrsinghh&theme=dark&hide_border=true&cache_seconds=86400" alt="amankrsinghh's GitHub Streak" width="49%" />
 </p>
@@ -170,7 +170,7 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amankrsinghh)](https://git.io/streak-stats)
 
 ---
 
@@ -184,6 +184,6 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 
 ---
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height[...]
 
 <sub>Last updated: June 5, 2026 | Portfolio under active development 🚀</sub>
