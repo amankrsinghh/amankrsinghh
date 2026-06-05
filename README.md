@@ -36,7 +36,7 @@
   <a href="https://github.com/amankrsinghh">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amankrsinghh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="amankrsinghh's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=amankrsinghh&theme=dark&hide_border=true&cache_seconds=86400" alt="amankrsinghh's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsinghh&theme=dark&hide_border=true" alt="amankrsinghh's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
