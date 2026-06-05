@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&d[...]
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=amankrsinghh">
@@ -171,9 +171,7 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 ---
 
 <p align="center">
-  <a href="https://www.codecard.dev/tools/github-coding-streak-calculator">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsinghh&theme=dark&hide_border=true&card_width=400" alt="amankrsinghh's GitHub streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=amankrsinghh&theme=dark&hide_border=true&cache_seconds=86400" alt="amankrsinghh's GitHub streak" />
 </p>
 
 ---
@@ -188,6 +186,6 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
 
 ---
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <sub>Last updated: June 5, 2026 | Portfolio under active development 🚀</sub>
