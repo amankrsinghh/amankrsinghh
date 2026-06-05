@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&d[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&descAlign=75&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist&descAlignY=51" />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=amankrsinghh">
@@ -167,12 +167,6 @@ Current Focus: Advanced Flutter Architecture & Full-Stack Development
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amankrsinghh&theme=dark&hide_border=true&cache_seconds=86400" alt="amankrsinghh's GitHub streak" />
-</p>
 
 ---
 
