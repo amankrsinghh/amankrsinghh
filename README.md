@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&descAlign=75&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist&descAlignY=51" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Kumar%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist%20%7C%20Clean%20Code%20Advocate&descSize=20&descAlign=50&descAlignY=60" />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=amankrsinghh">
